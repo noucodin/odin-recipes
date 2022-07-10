@@ -1,2 +1,2 @@
 # odin-recipes
-Just a simple recipe page made using html.
+Nothing really fancy here, just a simple recipe page made using html.
